@@ -45,5 +45,13 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiomara-udea/frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiomara-udea/Gestor_Front/issues"
+  },
+  "homepage": "https://github.com/xiomara-udea/frontend"
 }
